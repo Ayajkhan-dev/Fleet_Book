@@ -21,13 +21,13 @@ Connects customers with verified local fleet operators — eliminating the chaos
 ## 📸 Screenshots
 
 ### 🏠 Home — Search Your Fleet
-   Screenshot 2026-06-14 100541.png
+  <img width="1919" height="853" alt="Image" src="https://github.com/user-attachments/assets/b1635816-2f7b-4d83-99eb-5b372f2c5113" />
 
 ### 🔍 Search Results — Compare Fleet Operators
-<!-- APNA SCREENSHOT YAHAN DAALO -->
+<img width="1919" height="827" alt="Image" src="https://github.com/user-attachments/assets/deb8d8b9-96f1-4f54-85e9-86af0f416e5d" />
 
 ### 📋 Operator Detail — View Fleet & Book
-<!-- APNA SCREENSHOT YAHAN DAALO -->
+<img width="1914" height="838" alt="Image" src="https://github.com/user-attachments/assets/26ba8afe-a5c8-4199-a6da-bb79400593e8" />
 
 ---
 
